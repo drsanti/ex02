@@ -1,0 +1,15 @@
+# Build output
+debug/
+release/
+build*/
+
+# Generated artifacts
+*.bin
+*.elf
+*.hex
+*.map
+__repo__
+Kconfig.trace
+
+# macOS
+.DS_Store
